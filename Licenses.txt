@@ -1,0 +1,116 @@
+The different Components of this repository are Licensed under different Licenses.
+
+If not mentioned below, the Components are created by myself and are Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+https://creativecommons.org/licenses/by-sa/4.0/
+
+### mallocLibrarySCH ###
+
+Dinkle_EK508V-02P
+	Changes:
+		Modified "Conn_01x02" from the KiCad Schematic Library
+		https://github.com/KiCad/kicad-symbols
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://datasheet.lcsc.com/szlcsc/1811031130_Dinkle-EK508V-02P_C99392.pdf
+
+
+
+### mallocLibraryFP ###
+
+Dinkle_EK508V-02P
+	Changes:
+		Modified "TerminalBlock_bornier-2_P5.08mm" from the KiCad Footprint Library
+		https://github.com/kicad/kicad-footprints
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://datasheet.lcsc.com/szlcsc/1811031130_Dinkle-EK508V-02P_C99392.pdf
+
+
+L_Sunlord_MWSA0503_5.4x5.2mm
+	Changes:
+		Modified "L_Sunlord_MWSA0518_5.4x5.2mm" from the KiCad Footprint Library
+		https://github.com/kicad/kicad-footprints
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://datasheet.lcsc.com/szlcsc/1809042344_Sunlord-MWSA0503-100MT_C139506.pdf
+
+
+LF_451-453
+	Changes:
+		Created from Datasheet
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://datasheet.lcsc.com/szlcsc/1809291113_Littelfuse-0451010-MRL_C44479.pdf
+
+
+SilentStepStick-TMC2209		
+Changes:
+		Modified "Pololu_Breakout-16_15.2x20.3mm" from the KiCad Footprint Library
+		https://github.com/kicad/kicad-footprints
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://github.com/watterott/SilentStepStick
+		
+
+
+### mallocLibrary3D ###
+
+Dinkle_EK508V-02P
+	Changes:
+		Created from Datasheet
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://datasheet.lcsc.com/szlcsc/1811031130_Dinkle-EK508V-02P_C99392.pdf
+		
+
+L_Sunlord_MWSA0503_5.4x5.2mm
+	Changes:
+		Created from Datasheet
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://datasheet.lcsc.com/szlcsc/1809042344_Sunlord-MWSA0503-100MT_C139506.pdf
+		
+		
+LF_451-453
+	Changes:
+		Created from Datasheet
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://datasheet.lcsc.com/szlcsc/1809291113_Littelfuse-0451010-MRL_C44479.pdf		
+		
+		
+SilentStepStick-TMC2209_v20
+	Changes:
+		Imported https://github.com/watterott/SilentStepStick into KiCad. Added 3D Models from KiCads Library.
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://github.com/watterott/SilentStepStick
+		https://github.com/kicad/kicad-packages3d
+		https://github.com/malloc-19/SilentStepStickKiCad

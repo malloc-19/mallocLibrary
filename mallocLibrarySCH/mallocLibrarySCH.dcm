@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Dinkle_EK508V-02P
+D Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F https://datasheet.lcsc.com/szlcsc/1912251635_Ningbo-Kangnex-Elec-WJ129V-5-0-2P_C8463.pdf
+$ENDCMP
+#
+#End Doc Library
