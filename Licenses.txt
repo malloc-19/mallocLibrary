@@ -65,6 +65,17 @@ Changes:
 	
 	Source:
 		https://github.com/watterott/SilentStepStick
+
+
+Micro_SD_Card		
+Changes:
+		Created from Datasheet
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://datasheet.lcsc.com/szlcsc/1811011928_SOFNG-TF-15-15_C111196.pdf
 		
 
 
