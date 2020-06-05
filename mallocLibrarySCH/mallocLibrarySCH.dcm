@@ -6,4 +6,8 @@ K connector
 F https://datasheet.lcsc.com/szlcsc/1912251635_Ningbo-Kangnex-Elec-WJ129V-5-0-2P_C8463.pdf
 $ENDCMP
 #
+$CMP MP2359
+F https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2359/
+$ENDCMP
+#
 #End Doc Library
