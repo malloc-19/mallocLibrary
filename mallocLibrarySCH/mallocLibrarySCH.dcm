@@ -10,4 +10,10 @@ $CMP MP2359
 F https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2359/
 $ENDCMP
 #
+$CMP StepStickBreakout-TMC2209
+D Pololu Breakout Board, Stepper Driver A4988
+K Pololu Breakout Board Stepper Driver A4988
+F https://www.pololu.com/product/2980/pictures
+$ENDCMP
+#
 #End Doc Library

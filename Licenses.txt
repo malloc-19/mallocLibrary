@@ -5,7 +5,8 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 ### mallocLibrarySCH ###
 
-Dinkle_EK508V-02P
+
+MP2359
 	Changes:
 		Created from Datasheet
 	
@@ -15,7 +16,7 @@ Dinkle_EK508V-02P
 	Source:
 		https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2359/
 
-MP2359
+Dinkle_EK508V-02P
 	Changes:
 		Modified "Conn_01x02" from the KiCad Schematic Library
 		https://github.com/KiCad/kicad-symbols
@@ -26,7 +27,16 @@ MP2359
 	Source:
 		https://datasheet.lcsc.com/szlcsc/1811031130_Dinkle-EK508V-02P_C99392.pdf
 
-
+StepStickBreakout-TMC2209
+	Changes:
+		Modified "Pololu_Breakout_A4988" from the KiCad Schematic Library
+		https://github.com/KiCad/kicad-symbols
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://datasheet.lcsc.com/szlcsc/1811031130_Dinkle-EK508V-02P_C99392.pdf
 
 
 ### mallocLibraryFP ###
@@ -89,6 +99,16 @@ Changes:
 		https://datasheet.lcsc.com/szlcsc/1811011928_SOFNG-TF-15-15_C111196.pdf
 		
 
+PinHeader_2x03_P2.54mm_Vertical_Oval
+Changes:
+		Modified "PinHeader_2x03_P2.54mm_Vertical" from the KiCad Footprint Library
+		https://github.com/kicad/kicad-footprints
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://github.com/kicad/kicad-footprints
 
 ### mallocLibrary3D ###
 
