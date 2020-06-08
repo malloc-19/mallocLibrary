@@ -1,9 +1,35 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74HCT125
+F https://datasheet.lcsc.com/szlcsc/1809192010_Nexperia-74HCT125D-653_C5962.pdf
+$ENDCMP
+#
 $CMP Dinkle_EK508V-02P
 D Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector
 F https://datasheet.lcsc.com/szlcsc/1912251635_Ningbo-Kangnex-Elec-WJ129V-5-0-2P_C8463.pdf
+$ENDCMP
+#
+$CMP MP2359
+F https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2359/
+$ENDCMP
+#
+$CMP Micro_SD_Card_Det
+D Micro SD Card Socket
+K connector SD microsd
+F https://datasheet.lcsc.com/szlcsc/1811011928_SOFNG-TF-15-15_C111196.pdf
+$ENDCMP
+#
+$CMP Micro_SD_Card_Det_Hirose_DM3AT
+D Micro SD Card Socket with card detection pins
+K connector SD microsd
+F https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1
+$ENDCMP
+#
+$CMP StepStickBreakout-TMC2209
+D Pololu Breakout Board, Stepper Driver A4988
+K Pololu Breakout Board Stepper Driver A4988
+F https://www.pololu.com/product/2980/pictures
 $ENDCMP
 #
 #End Doc Library
