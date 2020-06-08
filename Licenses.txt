@@ -36,7 +36,17 @@ StepStickBreakout-TMC2209
 		https://creativecommons.org/licenses/by-sa/4.0/
 	
 	Source:
-		https://datasheet.lcsc.com/szlcsc/1811031130_Dinkle-EK508V-02P_C99392.pdf
+		https://github.com/KiCad/kicad-symbols
+
+74HCT125
+	Changes:
+		Created from Datasheet
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://datasheet.lcsc.com/szlcsc/1809192010_Nexperia-74HCT125D-653_C5962.pdf
 
 
 ### mallocLibraryFP ###
@@ -109,6 +119,7 @@ Changes:
 	
 	Source:
 		https://github.com/kicad/kicad-footprints
+
 
 ### mallocLibrary3D ###
 
