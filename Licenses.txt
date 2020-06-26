@@ -177,3 +177,23 @@ SilentStepStick-TMC2209_v20
 		https://github.com/watterott/SilentStepStick
 		https://github.com/kicad/kicad-packages3d
 		https://github.com/malloc-19/SilentStepStickKiCad
+		
+SMNR8040
+	Changes:
+		Created from Datasheet
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://datasheet.lcsc.com/szlcsc/1808311250_SXN-Shun-Xiang-Nuo-Elec-SMNR8040-4R7MT_C266436.pdf	
+		
+Tactile_Switch_C255812
+	Changes:
+		Created from Datasheet
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://datasheet.lcsc.com/szlcsc/1811011023_HYP-Hongyuan-Precision-1TS005F-2500-5001_C255812.pdf
