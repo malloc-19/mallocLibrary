@@ -48,7 +48,17 @@ StepStickBreakout-TMC2209
 	Source:
 		https://datasheet.lcsc.com/szlcsc/1809192010_Nexperia-74HCT125D-653_C5962.pdf
 
-
+TPS5430
+	Changes:
+		Created from Datasheet
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://www.ti.com/lit/ds/symlink/tps5430.pdf?ts=1593181946162&ref_url=https%253A%252F%252Fwww.google.com%252F
+		
+		
 ### mallocLibraryFP ###
 
 Dinkle_EK508V-02P
