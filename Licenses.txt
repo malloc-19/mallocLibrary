@@ -129,6 +129,7 @@ Changes:
 	
 	Source:
 		https://github.com/kicad/kicad-footprints
+		
 
 
 ### mallocLibrary3D ###
@@ -197,3 +198,53 @@ Tactile_Switch_C255812
 	
 	Source:
 		https://datasheet.lcsc.com/szlcsc/1811011023_HYP-Hongyuan-Precision-1TS005F-2500-5001_C255812.pdf
+		
+5032_2P_Crystal
+	Changes:
+		Created from Datasheet
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://datasheet.lcsc.com/szlcsc/1809192319_Yangxing-Tech-X50328MSB2GI_C115962.pdf
+		
+6_6_5_Pushbutton
+	Changes:
+		Created from Datasheet
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://datasheet.lcsc.com/szlcsc/1811011023_HYP-Hongyuan-Precision-1TS005F-2500-5001_C255812.pdf
+		
+FUET-9018
+	Changes:
+		Created from Datasheet
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://datasheet.lcsc.com/szlcsc/1912111437_FUET-FUET-9018_C391035.pdf
+		
+Jumoer
+	Changes:
+		Created from Datasheet
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://lcsc.com/product-detail/Shunts-Jumpers_Short-hood2-54mm-Top-seal-Closed-type_C100114.html
+		
+USB-B
+	Changes:
+		Created from Datasheet
+	
+	Licens:
+		https://creativecommons.org/licenses/by-sa/4.0/
+	
+	Source:
+		https://datasheet.lcsc.com/szlcsc/2008121133_SOFNG-USB-B01_C498173.pdf
