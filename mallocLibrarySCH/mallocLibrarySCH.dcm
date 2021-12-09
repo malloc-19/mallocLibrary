@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +BATT1
+D Power symbol creates a global label with name "+BATT"
+K power-flag battery
+$ENDCMP
+#
+$CMP +BATT2
+D Power symbol creates a global label with name "+BATT"
+K power-flag battery
+$ENDCMP
+#
 $CMP 74HCT125
 F https://datasheet.lcsc.com/szlcsc/1809192010_Nexperia-74HCT125D-653_C5962.pdf
 $ENDCMP

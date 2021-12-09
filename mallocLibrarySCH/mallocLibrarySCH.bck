@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +BATT1
+D Power symbol creates a global label with name "+BATT"
+K power-flag battery
+$ENDCMP
+#
+$CMP +BATT2
+D Power symbol creates a global label with name "+BATT"
+K power-flag battery
+$ENDCMP
+#
 $CMP 74HCT125
 F https://datasheet.lcsc.com/szlcsc/1809192010_Nexperia-74HCT125D-653_C5962.pdf
 $ENDCMP
@@ -18,12 +28,6 @@ $CMP Micro_SD_Card_Det
 D Micro SD Card Socket
 K connector SD microsd
 F https://datasheet.lcsc.com/szlcsc/1811011928_SOFNG-TF-15-15_C111196.pdf
-$ENDCMP
-#
-$CMP Micro_SD_Card_Det_Hirose_DM3AT
-D Micro SD Card Socket with card detection pins
-K connector SD microsd
-F https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1
 $ENDCMP
 #
 $CMP StepStickBreakout-TMC2209
